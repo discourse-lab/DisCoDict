@@ -2,7 +2,7 @@
 
 DisCoDict is based on [DiMLex](https://github.com/discourse-lab/dimlex) and has basically the same structure. The documentation below is a modified version of the [DiMLex Documentation](https://github.com/discourse-lab/dimlex/blob/master/DimLex-documentation.md), since the current version of DisCoDict contains several TODO's still.
 
-The lexicon is constructed of a number of lexicon entries, numbered by an 'id'. 
+The dictionary is constructed of a number of dictionary entries, numbered by an 'id'. 
 
 Schematically, each entry consists of the following data fields:
 
