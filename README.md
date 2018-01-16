@@ -1,5 +1,5 @@
 # DisCoDict
-A Dictionary of Dutch Discourse Connectives
+A Dictionary of Dutch Discourse Connectives.
 
 ## License
 
