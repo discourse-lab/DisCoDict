@@ -1,9 +1,9 @@
 # DisCoDict
-A Lexicon of Dutch discourse connectives
+A Dictionary of Dutch Discourse Connectives
 
 ## License
 
-The DisCoDict lexicon of Dutch discourse connectives is released under a Creative
+The DisCoDict dictionary of Dutch discourse connectives is released under a Creative
 Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 You can find a human-readable summary of the licence agreement here:
 
