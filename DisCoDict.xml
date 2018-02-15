@@ -21,7 +21,7 @@
       <example>Wellicht hebben ze het bij het rechte eind, maar aan de andere kant dachten beleidsmakers in de VS dat de ineenstorting van één investeringsbank, Bear Sterns, de markt had voorbereid op het bankroet van een andere, Lehman Brothers.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -54,7 +54,7 @@
       <example>Aangenomen dat morgen alles goed zal verlopen, lijkt het ons een genoegen om met haar op deze en andere gebieden te mogen samenwerken.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -93,7 +93,7 @@
       <example>Aangezien hem sterk werd aangeraden naar Londen te reizen, is hij onmiddellijk vertrokken.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -123,10 +123,10 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>De stemming vindt vanmiddag aansluitend op de debatten plaats.</example>
+      <example>Aansluitend zal ik ook nog iets zeggen over twee andere belangrijke kwesties die in Luik aan de orde kwamen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -159,7 +159,7 @@
       <example>Kunt u mij zeggen wat u van plan bent te doen, afgezien van het formeel invoeren van de wet?</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -191,7 +191,7 @@
 </example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -222,7 +222,7 @@
       <example>Ik heb allereerst de praktijk willen stroomlijnen door de bepalingen van verschillende richtlijnen die betrekking hebben op het proces te harmoniseren.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -259,7 +259,7 @@
       <example>Hij zal zich wel meer op zijn gemak gaan voelen naargelang hij hier langer is.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -293,7 +293,7 @@
       <example>Als de geachte afgevaardigde daarmee instemt, zal ik haar schriftelijk de redenen meedelen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -311,24 +311,18 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c10" word="als gevolg">
+  <entry id="c10" word="als gevolg van">
     <orths>
       <orth type="cont" canonical="1" onr="c10o1">
-        <part type="phrasal">als gevolg</part>
+        <part type="phrasal">als gevolg van</part>
       </orth>
       <orth type="cont" canonical="0" onr="c10o2">
-        <part type="phrasal">Als gevolg</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="c10o3"> <!-- TODO: move this to its own entry, as I think just 'als gevolg' is anaphoric, while 'als gevolg van' is not! -->
         <part type="phrasal">Als gevolg van</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="c10o4">
-        <part type="phrasal">als gevolg van</part>
       </orth>
     </orths>
     <focuspart>_todo_</focuspart>
     <non_conn_reading>
-      <example>Als gevolg en oorzaak niet meer uit elkaar te houden zijn, wordt het lastig.</example>
+      <example>Als gevolg van oorzaak onderscheiden moeilijk is, wordt het ingewikkeld.</example>
     </non_conn_reading>
     <ambiguity>
       <non_conn>1</non_conn>
@@ -338,7 +332,7 @@
       <example>De steunverlening is onwenselijk, omdat ongezonde bedrijven als gevolg van subsidies blijven produceren.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -369,7 +363,7 @@
       <example>Het is immers niet verplicht zich aanvullend te verzekeren, met als gevolg dat de ongelijkheid aanzienlijk zal toenemen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -406,7 +400,7 @@
       <example>We hebben de optie van het verwerven van nucleaire wapens zelfs nooit overwogen, omdat we geloven dat deze wapens onze nationale veiligheidsbelangen kunnen ondermijnen; als gevolg hiervan is er geen plaats voor ze in de Iraanse veiligheidsdoctrine.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -437,7 +431,7 @@
       <example>Er is nog een lange weg te gaan alvorens de wet in de praktijk wordt uitgevoerd.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -505,7 +499,7 @@
       <example>Anders dan veel gemakkelijke kritiek doet vermoeden, kan Europa niet verweten worden dat het bezuinigingen aan de Grieken heeft opgelegd.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -538,7 +532,7 @@
       <example>Over het opstellen van adequate immigratieprocedures wordt enerzijds niet overlegd met het Europees Parlement en bestaat er anderzijds geen overeenstemming tussen de regeringen van de vijftien lidstaten.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -570,7 +564,7 @@
       <example>Het doet mij genoegen dat er behalve de indiening van deze klacht nu ook een defensief mechanisme in werking zal treden</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -601,7 +595,7 @@
       <example>Het ziet er immers naar uit dat de richtlijn in werking zal treden nog vóór de eerste kandidaat-landen tot de Unie toetreden. Op het tijdstip van hun toetreding moeten zij zich bijgevolg aan dezelfde verplichtingen houden als de huidige lidstaten.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -635,7 +629,7 @@
       <example>Ik denk bijvoorbeeld aan mijn stad, Vigo, in het noordwesten van Spanje.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -666,7 +660,7 @@
       <example>Ook de Raad kan zich in het ontwerp vinden en bovendien is er rekening gehouden met de volkomen gerechtvaardigde eisen van de Commissie.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -699,7 +693,7 @@
       <example>Buiten een aantal zakelijke kringen, vakorganisaties en NGO's helpt nog een hele reeks andere organen ons handelsbeleid te bepalen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -732,7 +726,7 @@
       <example>Natuurlijk moeten de Verenigde Staten, ook militair, in staat zijn om in hun eigen achtertuin de vrede te bewaren. Daarbuiten moeten we vooral doen waar we goed in zijn: dat is praten, praten, nog eens praten, compromissen sluiten en uiteindelijk betalen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -763,7 +757,7 @@
       <example>Als in de VS de olieprijzen stijgen, dan stijgen daardoor ook de inkomens in Texas en Montana.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -795,7 +789,7 @@
 Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -828,7 +822,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Zij menen dat de Europese Unie veel te veel het succes van het proces van de tien toetredingslanden poogt te kopiëren in de Zuidoost-Europa. Daarmee stelt de Unie in feite te hoge eisen aan staten die daaraan nog niet toe zijn.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -859,7 +853,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Het is niet aan mij om hier de conclusies van de Raad te onthullen, maar ik roep de leden van dit Parlement op om de conclusies te lezen. Ik stel voor dat wij elkaar daarna opnieuw spreken.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -892,7 +886,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Wij zijn steeds voorstander geweest van het concept dat leden van het Europees Parlement niet anders behandeld mogen worden dan andere ingezetenen van hun lidstaten. Daarnaast is het van groot belang dat wij vandaag een punt zetten achter de hele onkostenkwestie.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -925,7 +919,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dit risico kunnen wij weliswaar beperken, maar nooit helemaal uitsluiten en daarom wil ik een lans breken voor meer vervoer over het spoor.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -954,7 +948,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Nee, ik ben er zeker van dat de recente recessie vooral het gevolg is van een wereldwijde krediethausse en de rampspoed die daarop volgde.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -985,7 +979,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dat gaat geld kosten. Daartegenover staat dat het ons ook duur te staan zal komen als er géén uitbreiding komt.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1018,7 +1012,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Los van de details en de concrete voorstellen, hoe belangrijk die ook zijn, komt het er in Laken vooral op aan om een nieuw perspectief te openen, een grondwettelijk perspectief. Daartoe is het, zoals ik al zei, onontbeerlijk het tij te keren.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1051,7 +1045,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Zo concludeerden de Harvard-econometristen James Stock (nu lid van de raad van economische adviseurs van president Barack Obama) en Mark Watson in 2005, vlak voor het losbarsten van de financiële crisis, dat de ontwikkelde economieën in de veertig jaar daarvoor minder volatiel en onafhankelijker van elkaar waren geworden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1082,7 +1076,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dankzij het internet doen afstanden er niet meer toe, de hele wereld kan nu ons klaslokaal zijn.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1109,7 +1103,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <part type="phrasal">D.w.z.</part>
       </orth>
     </orths>
-    <focuspart>_todo_</focuspart>
+    <focuspart>cco</focuspart>
     <non_conn_reading>
       <example>Als ik dat wil zeggen, moet dat gewoon kunnen.</example>
     </non_conn_reading>
@@ -1152,7 +1146,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De getroffen maatregelen kosten de overheid en de burgers immers buitengewoon veel geld. Wij mogen derhalve geen overbodige maatregelen eisen, hoewel vragen uiteraard altijd vrij staat.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1183,7 +1177,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dat is uitermate onvoorspelbaar. Desalniettemin kunnen we ons vrij gemakkelijk voorstellen hoe dit proces gekeerd kan worden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1214,7 +1208,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Daardoor bestaat het risico dat er vissen worden gevangen die op zichzelf zeer waardevol zijn en desondanks in zee worden teruggegooid.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1245,7 +1239,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Hoe meer we voelen, des te meer we ergens om geven – en des te moreler onze beweegredenen zijn.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1276,7 +1270,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Hoe dieper de inzinking in andere landen en hoe hoger de dollarkoers, des te minder de Verenigde Staten zich zullen kunnen indekken tegen de slapte elders in de wereld, zelfs nu de binnenlandse vraag sterk lijkt.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1307,7 +1301,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Iran en zijn internationale gespreksgenoten moeten van het verleden leren en dienovereenkomstig de verwachtingen in goede banen leiden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1338,7 +1332,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Vervolgens weigerde de Romney-campagne op de verkiezingsavond, toen de televisiezenders de nederlaag van de Republikein in Ohio voorspelden en dientengevolge de herverkiezing van Obama, de uitslag te aanvaarden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1369,7 +1363,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Mocht deze snelle, doch niet adequate marsroute gekozen worden, dan heeft dat ingrijpende gevolgen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1401,7 +1395,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Het van buitenaf opleggen van dit soort programma's is eenvoudigweg geen effectieve optie. Dus als hervormingen vat op het land willen krijgen, zullen de Griekse regering en haar electoraat erin moeten geloven.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1434,7 +1428,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De Wereldbank schat dat dergelijke beperkingen China 2,3% van zijn bbp kosten. China heeft echter nog geen gebrek aan water.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1468,7 +1462,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Onafhankelijke wetenschappers, die de bevindingen van deze onderzoeken willen controleren, zullen eerst deze cijfers moeten reproduceren en daarna de programma's.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1501,7 +1495,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Die aanpak heeft er namelijk toe geleid dat de rapporteur - en dat is toch tamelijk ongebruikelijk - zich uiteindelijk niet in het resultaat heeft kunnen vinden en haar naam niet langer met dit verslag wilde verbinden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1538,7 +1532,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Wij moeten ervoor zorgen dat wij altijd het evenwicht bewaren tussen enerzijds de bescherming van ons milieu en anderzijds de economische vooruitgang.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1569,7 +1563,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>U wilt call-back, mijnheer Goebbels, ik wil call-back en de heer Bolkestein eveneens.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1600,7 +1594,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Onderzoeksjournalistiek en serieus commentaar hebben evenmin een winstmodel als religie.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1631,7 +1625,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>We kunnen deze niet eerdaags uitroeien of vernietigen, omdat het evenzeer een netwerk en idee is als een organisatie en de facto staat die gebied en hulpbronnen controleert.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1662,7 +1656,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De creatie van Israël komt evenzo voort uit de Balfour-verklaring uit 1917.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1695,7 +1689,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>En dan praten we wel over een potentiële nabuur van de Europese Unie, gelet op de kandidaatstatus van Turkije.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1706,7 +1700,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <pdtb3_relation sense="conjunction"/> <!-- not sure about this sense -->
       </sem>
     </syn>
-  </entry>
+    </entry>
   <entry id="c54" word="gesteld">
     <orths>
       <orth type="cont" canonical="1" onr="c54o1">
@@ -1740,7 +1734,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>En bovendien, gesteld dat Irak over wapens zou beschikken, waar halen wij dan het recht vandaan het land te beroven van de middelen om zich te verdedigen?</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1771,7 +1765,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>In het ergste geval zullen een paar duizend vissers werkloos worden. Zweden zal hierdoor het zwaarst worden getroffen aangezien Denemarken en Finland ook visgronden in de Atlantische Oceaan hebben.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1807,7 +1801,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Het omvangrijke vraagstuk waarop in dit rapport werd ingegaan betrof de noodzaak de asielstelsels weer in de hand te krijgen. Hierop volgde een mededeling van de Commissie waarin de eenvoudige vragen ingewikkeld worden gemaakt.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1838,7 +1832,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ons team speelde offensief. De anderen hierentegen bleven verdedigend spelen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1871,7 +1865,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Zo is er voor 1 januari 2006 een tussenstap voorzien waarbij de gewichtsklasse die buiten mededinging blijft, met maar liefst de helft wordt verlaagd: van 100 naar 50 gram. Maar die tussenstap verloopt automatisch. Hiertoe wordt nu al besloten zonder dat de gevolgen werkelijk en serieus zijn onderzocht.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1904,7 +1898,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Alle soorten handel in cellen en weefsels moeten in principe strafbaar zijn. Hiervoor moeten wij echter een nauwkeurigere formulering gebruiken.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1938,7 +1932,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Een aantal vragen had hoe dan ook schriftelijk beantwoord moeten worden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -1969,7 +1963,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Hoewel de controle een nationale bevoegdheid is, neemt dit niet weg dat er een tweejaarlijks verslag moet worden opgesteld over de resultaten van de controle, dat aan de Commissie moet worden voorgelegd.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2002,7 +1996,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Hoezeer we ook van mening kunnen verschillen over een conflict als dat in Tsjetsjenië, er kan en mag nooit enige rechtvaardiging worden gevonden voor dit soort gruweldaden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2033,7 +2027,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Er bestaat immers bewijs dat ook zij gepest worden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2072,7 +2066,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Misschien zouden in plaats van obligaties en goudgerande aandelen zelfs pensioenfondsen kunnen worden gebruikt om hogere groeiopbrengsten te realiseren.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2103,7 +2097,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Met betrekking tot de noodzaak onmiddellijk op te treden is inmiddels aan beide kanten een nieuwe houding waarneembaar.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2114,7 +2108,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <pdtb3_relation sense="synchronous"/>
       </sem>
     </syn>
-  </entry>
+    </entry>
   <entry id="c66" word="integendeel">
     <orths>
       <orth type="cont" canonical="1" onr="c66o1">
@@ -2134,7 +2128,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>In juli constateerden de Commissie en het Parlement, ieder na een uitgebreid eigen onderzoek, dat er niks veranderd was. Integendeel, de zaak verslechterde.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2165,7 +2159,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>In tegenstelling tot hetgeen sommige instanties eisen, is de Milieucommissie van mening dat in dit verband nu alleen zwavel moet worden behandeld.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2196,7 +2190,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Deze schepen worden vervolgens vernietigd, maar de vloot bouwt intussen wel oneigenlijke reserves aan kilowatts op.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2208,6 +2202,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       </sem>
     </syn>
   </entry>
+  <!--
   <entry id="c69" word="in tweede plaats">
     <orths>
       <orth type="cont" canonical="1" onr="c69o1">
@@ -2223,7 +2218,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <part type="phrasal">in de tweede plaats</part>
       </orth>
     </orths>
-    <focuspart>_todo_</focuspart>
+    <focuspart>csu</focuspart>
     <non_conn_reading>
       <example>Verstappen eindige in tweede plaats.</example>
     </non_conn_reading>
@@ -2249,7 +2244,8 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
-  </entry>
+    </entry>
+  -->
   <entry id="c70" word="in zover">
     <orths>
       <orth type="cont" canonical="1" onr="c70o1">
@@ -2269,7 +2265,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Met onze amendementen willen wij de Europese Unie ook geen standpunt ten aanzien van abortus doen innemen. In zover het om het demografisch beleid gaat, moeten wij de conferentie van Caïro ernstig nemen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2300,7 +2296,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Die actie heeft in zoverre succes gehad dat de klandizie van deze exploitanten is teruggelopen, maar de actiegroep wacht nog steeds op schadeloosstelling en teruggave van het geld.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2331,7 +2327,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Tot die maatregelen behoren doeltreffend strafrechtelijk onderzoek en optreden, efficiënte strafrechtelijke sancties en effectieve politiële, strafrechtelijke en administratieve samenwerking. Kortom, het gaat erom een bestand van strafrechtelijke sancties voor milieudelicten te creëren.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2364,7 +2360,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Het is voor de Europese Commissie zo goed als onmogelijk om de situatie op nationaal en regionaal vlak te controleren, laat staan in de afzonderlijke bedrijven.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2397,7 +2393,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Laatste punt: uw rapporteur heeft bij al zijn werkzaamheden de volle medewerking gehad van de Commissie en van het Belgische en later Spaanse voorzitterschap van de Raad.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2430,7 +2426,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Zou dat misschien de reden kunnen zijn waarom de autoriteiten, lees de Amerikanen en de Britten, weigeren om Hans Blix en zijn VN-inspectieteam toe te laten?</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2467,7 +2463,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Als de toetredingskandidaten lid worden, zouden zij logischerwijs ook moeten toetreden tot het Cohesiefonds.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2500,7 +2496,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ik wil de commissaris nu verzoeken antwoord te geven op de vraag van mevrouw Theato. Los daarvan nemen wij de kritiek op de agenda van de donderdag mee.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2542,7 +2538,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Het statuut van de Europese onderneming dan weer wel, met andere woorden een kaderrichtlijn is nodig.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2573,7 +2569,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De evaluatie bevatte ook een aantal aanbevelingen en specifieke kritiekpunten en we hebben naar aanleiding daarvan ook serieus actie ondernomen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2604,7 +2600,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Eerst was er naar aanleiding van de Raad van Gent het onderonsje tussen drie landen en toen volgde de gewraakte bijeenkomst in Londen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2637,7 +2633,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Bovendien hebben wij, in tegenstelling tot de Commissie, transport een veel hogere prioriteit gegeven, naast meer aandacht voor energie.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2667,7 +2663,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De MOP's zijn in het leven geroepen nadat de TAC - de totaal toegestane vangsten - waren vastgesteld.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2698,7 +2694,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Waarmee we wel akkoord kunnen gaan is dat er naderhand voorstellen betreffende deze gebieden worden ingediend.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2731,7 +2727,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Toen was dat zeer relevant, want we moesten ongeveer bij nul beginnen. Nadien is er veel bereikt, maar nu bekruipt me meer en meer een ongemakkelijk gevoel.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2752,7 +2748,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <part type="single">Namelijk</part>
       </orth>
     </orths>
-    <focuspart>_todo_</focuspart>
+    <focuspart>adv</focuspart>
     <non_conn_reading/>
     <ambiguity>
       <non_conn>0</non_conn>
@@ -2831,7 +2827,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Net zomin als de rode gentechnologie alleen gepaard gaat met kansen, brengt de groene gentechnologie alleen gevaren met zich mee.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2862,7 +2858,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Mijnheer de Voorzitter, via een nog steeds geheim gehouden correspondentie, niettegenstaande mijn herhaalde verzoeken, heeft de heer Bush de heer Prodi veertig onaanvaardbare eisen gesteld.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2896,7 +2892,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Wat Cyprus betreft, hebben wij weliswaar goede nota genomen van de positieve punten het verslag-Poos, maar onthouden wij ons niettemin van stemming.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2932,7 +2928,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Niet zomaar is de schuldencrisis een groot probleem geworden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2963,7 +2959,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Het in stand houden van het bevroren conflict met Armenië is niet in het langetermijnbelang van Turkije, noch in dat van enige andere staat in de regio.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -2994,7 +2990,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ik heb de vereiste hervormingen van de arbeidsmarkt nog niet gezien, die nochtans onontbeerlijk zijn voor de groei en voor meer banen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3031,7 +3027,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De wereld verkeert nog steeds in een shocktoestand door de aanslagen in New York en Washington.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3064,7 +3060,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Gaan we naar IJsland of willen we toch naar Soedan?</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3095,7 +3091,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Er zij overigens aan herinnerd dat zij zich niet tegen de Joodse bezetter verzetten omdat hij Jood is, maar omdat hij hun bezetter is.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3128,7 +3124,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Om te beginnen wil ik Rodi Kratsa-Tsagaropoulou graag bedanken voor het uitmuntende werk dat zij heeft geleverd.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3159,7 +3155,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Deze duidelijke verantwoordelijkheid moet omwille van de burgers door de publieke overheden worden genomen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3190,7 +3186,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ondanks de civiele insteek zal het systeem op termijn ook een militaire component kennen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3221,7 +3217,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Kredieten beschikbaar stellen en tegelijkertijd geen harde eisen stellen en ondertussen de illegale exploitatie van natuurlijke hulpbronnen laten doorgaan, is niet de meest geloofwaardige manier.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3252,7 +3248,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Voor het eerst sinds mensenheugenis heeft het een stabiele regering, gekozen op basis van een democratisch mandaat.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3285,7 +3281,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Wij zijn van mening dat onze discussies vruchtbaarder en zinvoller waren geweest als de Commissie, toen zij dit debat op gang bracht, eigen ideeën ter tafel had gebracht. Op die manier had zij die discussies kunnen bevorderen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3318,7 +3314,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Gelukkig laat de Raad nu doorschemeren dat correcties op grond van conjuncturele variaties eventueel toegestaan zullen worden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3355,7 +3351,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Degenen die tot dat publiek behoren, kunnen op grond daarvan eventueel aanvoeren dat zij ten onrechte zijn uitgesloten.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3386,7 +3382,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ik heb een heel zakelijke brief geschreven waarin ik haar verzocht, overeenkomstig het tussen de Commissie en het Parlement gesloten akkoord, naar onze commissie te komen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3417,7 +3413,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Per slot van rekening worden al deze kleine landen steeds autonomer en is het dus essentieel dat die autonomie ook wordt erkend.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adj</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3485,7 +3481,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Er zijn immers bijna zes jaar verstreken sedert de Raad de integratie van het gendergelijkheidsaspect tot een beginsel van het ontwikkelingsbeleid van de Gemeenschap heeft uitgeroepen en een actieprogramma daarvoor uitvaardigde.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3516,7 +3512,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Kort daarna heeft de Commissie trouwens tijdens de Top van Helsinki in december 1999 een mededeling over de sociale dimensie van de sport aan de staatshoofden en regeringsleiders voorgelegd. Sedertdien is er niets veranderd.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat> <!-- perhaps also a syn entry for csu (see seitdem in dimlex)-->
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3549,7 +3545,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Sinds dit initiatief vorig jaar maart werd voorgesteld, hebben lidstaten, in nauwe samenwerking met de Commissie, al aanzienlijke vooruitgang geboekt.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3580,7 +3576,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De voorbereiding hebben sindsdien gestaag hun beslag gekregen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat> <!-- perhaps also a syn entry for csu (see seitdem in dimlex)-->
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3646,7 +3642,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>We moeten de hele wapenproductie sowieso bekijken.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3679,7 +3675,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Nu komt er voetbal op tv. Straks kunnen we verder praten.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3712,7 +3708,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Alleen zo kunnen we het aantal overlijdens en de ziekteverschijnselen beperken en tegelijk alle andere sociale gevolgen op positieve wijze opvangen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3757,7 +3753,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Er was een vicieuze cirkel van afschuwelijk geweld, maar tegelijkertijd wist men dat kort tevoren in Camp David en Taba een mogelijke oplossing dichterbij was gekomen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3794,7 +3790,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De gegevens zijn bevredigend, temeer daar de aanbevelingen van het Parlement zijn opgevolgd.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3825,7 +3821,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>We hopen dat de Commissie werkelijk hervormd zal worden teneinde efficiënter te kunnen werken.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3862,7 +3858,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Eenderde van alle sociale uitkeringen die in Europa aan werknemers worden uitbetaald ten gevolge van schade door beroepsziekten, betreft gehoorschade.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3900,7 +3896,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Tenslotte nog iets over de open coördinatiemethode.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3912,6 +3908,8 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       </sem>
     </syn>
   </entry>
+  <!-- if 'ten eerste' is not in here, so shouldn't 'ten tweede'. But perhaps both need to be added. -->
+  <!--
   <entry id="c117" word="ten tweede">
     <orths>
       <orth type="cont" canonical="1" onr="c117o1">
@@ -3945,7 +3943,8 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
-  </entry>
+    </entry>
+  -->
   <entry id="c118" word="tenzij">
     <orths>
       <orth type="cont" canonical="1" onr="c118o1">
@@ -3965,7 +3964,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De verliezer in dit onaangename spel is de democratie, en de winst voor vluchtelingen is twijfelachtig, tenzij je generaal bent in het leger van Saddam Hussein.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -3998,7 +3997,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Integendeel, men probeert er een Iers probleem van te maken, terwijl het in feite natuurlijk een probleem voor de hele EU is.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4034,7 +4033,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Mijnheer Titley, ik begrijp heel goed dat de collega' s van wie de naam niet genoemd is, teleurgesteld zijn. Toch moet ik eraan herinneren dat het een uitwisseling van vragen en antwoorden betrof.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4069,7 +4068,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Tragedies zoals die in Wexford zullen blijven plaatsvinden totdat deze tegenstrijdigheid serieus aangepakt wordt door alle lidstaatregeringen van de EU.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4102,7 +4101,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dat is anders één van de klassieke mogelijkheden die vrouwen hebben om überhaupt vertegenwoordigd te zijn bij dit soort werkzaamheden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4135,7 +4134,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dit gaat op voor alle landen waarmee wij onderhandelen, uitgezonderd Bulgarije en Roemenië, waarbij ik echter wil benadrukken dat ook in deze landen opmerkelijke vooruitgang is geboekt.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>other</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4175,7 +4174,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Zo moeten lidstaten toezicht houden op de eerbiediging van het mandaat van de inlichtingendiensten. Vandaar mijn amendement om communicatie te beschermen tegen interceptie waarop controle ontbreekt.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4206,7 +4205,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ik heb begrepen dat het gemeenschappelijk standpunt wordt aangepast vanwege het nieuwe stelsel voor de toekenning van Eco-labels.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4272,7 +4271,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Verder wil ik het over de positieve lijst hebben.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4303,7 +4302,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Het is dus niet de bedoeling dat wij ons beperken tot het goedkeuren van de voorstellen van de Raad, maar dat wij degenen zijn die de voorstellen op tafel leggen om vervolgens met de Raad tot een eindresultaat te komen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4339,7 +4338,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ik onderstreep graag dat de werkzaamheden van de voorlopige eenheid vooral tijdens de afgelopen weken het belang en het nut van een eenheid als Eurojust ten overvloede hebben bewezen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4370,7 +4369,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Hoe lang moeten de Basken nog wachten vooraleer Europa beseft dat de vrede in zijn handen ligt?</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4401,7 +4400,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De Unie kan ook socialer worden - ook dat vind ik heel belangrijk - vooropgesteld dat we vasthouden aan de in deel I geformuleerde doelstellingen en waarden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4432,7 +4431,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dit Parlement heeft voorts besloten om een delegatie op hoog niveau naar het Midden-Oosten te sturen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4469,7 +4468,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Voor zover dat mogelijk is, val ik vanmiddag voor hem in, omdat hij naar een belangrijke bijeenkomst in Canada is.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4502,7 +4501,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dientengevolge was onze commissie op dit gebied niet langer tot fijnsturing in staat, waardoor wij ons niet goed van onze controletaak kunnen kwijten.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4535,7 +4534,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>In het verslag-Gahrton wordt geheel ten juiste benadrukt dat wij geduldig verschillende parallelle wegen moeten bewandelen, waarmee naar verwachting veel tijd gemoeid zal zijn en waarbij moet worden uitgegaan van de beschikbare middelen en van de vorig jaar geboekte vooruitgang.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4574,7 +4573,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dit zou met name het geval zijn bij plotselinge problemen, zoals een golfklap, waarna een eenmalige geluidsmeting nodig is.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4607,7 +4606,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dit verslag gaat in de goede richting, en dat is ook de reden waarom wij ervoor gestemd hebben.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4640,7 +4639,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ik zei dat ik naar Groenland vlieg, waarop mijn vrouw geschokt reageerde.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4673,7 +4672,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Ik denk echter dat wanneer deze dialoog niet vergezeld gaat van politieke actie, het gevaar bestaat dat bepaalde situaties in stand worden gehouden.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4709,7 +4708,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Binnen de Europese Unie moeten wij hiertegen vechten, want de afzonderlijke lidstaten hebben het laten afweten.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4740,7 +4739,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Dit hoofdstuk geldt niet voor Denemarken wegens de uitzondering die via Protocol aan Denemarken is toegestaan.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>prep</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4771,7 +4770,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>En hier volgen, mevrouw de Voorzitter, de conclusies van de Raad, zodat u volledig op de hoogte bent:</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4805,7 +4804,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Bovendien moet de Commissie ons vóór het einde van het volgend jaar een positieve lijst of in ieder geval een ontwerp daarvan presenteren. Zodoende hebben wij de mogelijkheid om nog binnen deze wetgevingsperiode een positief resultaat te bereiken.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>adv</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4836,7 +4835,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Het Voorzitterschap zal de nodige verklaring afleggen zodra de lijst van moties van orde is afgehandeld.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4867,7 +4866,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Zolang ik het verzoek niet via de Spaanse regeringsautoriteiten heb ontvangen, zal ik het dus niet in overweging nemen.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>csu</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
@@ -4885,13 +4884,23 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       </sem>
     </syn>
   </entry>
-  <entry id="c146" word="zowel">
+  <entry id="c146" word="zowel...als">
     <orths>
-      <orth type="cont" canonical="1" onr="c146o1">
-        <part type="single">zowel</part>
+      <orth type="discont" canonical="1" onr="c146o1">
+	<part type="single">zowel</part>
+	<part type="single">als</part>
       </orth>
-      <orth type="cont" canonical="0" onr="c146o2">
+      <orth type="discont" canonical="0" onr="c146o2">
         <part type="single">Zowel</part>
+	<part type="single">als</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="c146o3">
+        <part type="single">Zowel</part>
+	<part type="phrasal">als ook</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="c146o4">
+        <part type="single">zowel</part>
+	<part type="phrasal">als ook</part>
       </orth>
     </orths>
     <focuspart>_todo_</focuspart>
@@ -4904,7 +4913,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>Mijn oprechte felicitaties, zowel aan u als aan de heer Seguro.</example>
     </stts>
     <syn>
-      <cat>_todo_</cat>
+      <cat>cco</cat>
       <integr/>
       <ordering>
         <ante>_todo_</ante>
