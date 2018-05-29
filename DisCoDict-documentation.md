@@ -22,7 +22,7 @@ A connective can be 'phrasal' or a 'single' item, furthermore, phrasal connectiv
 
  The syntax block is further divided into the following components:
 
- * **`<cat/>`** **TODO** (Should contain syntactic category.)
+ * **`<cat/>`** Syntactic category.
 
  * **`<integr/>`** **TODO** (Should contain, for adverbs, in which syntactic positions they can occur. 
 
