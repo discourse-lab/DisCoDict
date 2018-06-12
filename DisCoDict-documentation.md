@@ -26,7 +26,7 @@ A connective can be 'phrasal' or a 'single' item, furthermore, phrasal connectiv
 
 * **`<sem/>`** Information on the coherence relation(s) expressed by the connective. 
 
-* **`<finiteClauseArg/>`** Specifies whether (1) or not (0) this connective can connect two finite clauses. 
+**`<finiteClauseArg/>`** Specifies whether (1) or not (0) this connective can connect two finite clauses. 
 
 
  Each semantic reading is chosen from the list of PDTB 3.0 relations (see (Webber et al., 2016), LAW workshop). The inventory of senses used here is provided in the file `inventory-pdtb3-senses.txt`.
