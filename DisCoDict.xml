@@ -69,7 +69,7 @@
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -304,6 +304,9 @@
       <sem>
         <pdtb3_relation sense="asynchronous-succession"/>
       </sem>
+	  <sem>
+        <pdtb3_relation sense="list"/>
+      </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
   <entry id="c10" word="naargelang">
@@ -382,17 +385,17 @@
         <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-          <pdtb3_relation sense="condition-arg1-as-consequent"/>
+          <pdtb3_relation sense="condition-arg2-as-condition"/>
          </sem>
       <sem>
         <pdtb3_relation sense="similarity"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
-  <entry id="c12" word="als gevolg">
+  <entry id="c12" word="als gevolg van">
     <orths>
       <orth type="cont" canonical="1" onr="c12o1">
-        <part type="phrasal">als gevolg</part>
+        <part type="phrasal">als gevolg van</part>
       </orth>
       <orth type="cont" canonical="0" onr="c12o2">
         <part type="phrasal">Als gevolg</part>
@@ -423,7 +426,7 @@
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-result"/>
+        <pdtb3_relation sense="cause-reason"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -525,7 +528,7 @@
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="asynchronous-succession"/>
+        <pdtb3_relation sense="asynchronous-precedence"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -546,7 +549,7 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Anders dan veel gemakkelijke kritiek doet vermoeden, kan Europa niet verweten worden dat het bezuinigingen aan de Grieken heeft opgelegd.</example>
+      <example>Voor beide kwesties is samenwerking tussen de lidstaten vereist, anders kunnen we ze niet aanpakken.</example>
     </stts>
     <syn>
       <cat>csu</cat>
@@ -557,7 +560,7 @@
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="negative-condition-arg2-as-consequent"/>
+        <pdtb3_relation sense="negative-condition-arg2-as-negative condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -609,7 +612,7 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Behalve aan alleenstaande moeders moet ook steun worden gegeven aan moeders in het algemeen die een, twee of meer kinderen grootbrengen.</example>
+      <example>In Liberia is  gebrek aan alles, behalve aan wapens.</example>
     </stts>
     <syn>
       <cat>csu</cat>
@@ -640,7 +643,7 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Behalve dat ik van de Commissie een ambitieuzer optreden verwacht had, heb ik ook tekortkomingen in de uitvoering vastgesteld.</example>
+      <example>Ik hoef er dus niets meer over te zeggen, behalve dat de Europese Unie snel een strategie moet aannemen om deze ziekten efficiënt te bestrijden.</example>
     </stts>
     <syn>
       <cat>csu</cat>
@@ -777,7 +780,7 @@
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="exception-arg2-as-except"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -808,7 +811,7 @@
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="exception-arg2-as-except"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -841,7 +844,7 @@
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="exception-arg2-as-except"/>
+        <pdtb3_relation sense="exception-arg1-as-except"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -1028,7 +1031,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-result"/>
+        <pdtb3_relation sense="cause-reason"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -1045,7 +1048,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <example>De tafel staat in de keuken en die doos staat daarop.</example>
     </non_conn_reading>
     <ambiguity><non_conn>1</non_conn><sem_ambiguity>0</sem_ambiguity></ambiguity><stts>
-      <example>Nee, ik ben er zeker van dat de recente recessie vooral het gevolg is van een wereldwijde krediethausse en de rampspoed die daarop volgde.</example>
+      <example>De Europese Raad heeft in lijn hiermee in juni 2004 de Commissie verzocht een voorstel te doen. Daarop heeft de Commissie een voorstel ingediend tot de oprichting van een instituut, een technisch instrument dat de Europese organen in het algemeen en de Commissie in het bijzonder zou moeten ondersteunen bij het opstellen van beleid, alsook de lidstaten bij de uitvoering ervan.</example>
     </stts>
     <syn>
       <cat>adv</cat>
@@ -1056,7 +1059,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="asynchronous-precedence"/>
+        <pdtb3_relation sense="asynchronous-succession"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -1192,7 +1195,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <pdtb3_relation sense="asynchronous-precedence"/>
       </sem>
       <sem>
-        <pdtb3_relation sense="condition-arg2-as-consequent"/>
+        <pdtb3_relation sense="condition-arg1-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -1388,7 +1391,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-reason"/>
+        <pdtb3_relation sense="cause"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -1418,7 +1421,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-reason"/>
+        <pdtb3_relation sense="cause"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -1570,6 +1573,9 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <post>1</post>
         <insert>0</insert>
       </ordering>
+	  <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
       <sem>
         <pdtb3_relation sense="concession-arg2-as-denier"/>
       </sem>
@@ -1638,12 +1644,6 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem>
         <pdtb3_relation sense="conjunction"/>
       </sem>
-      <sem>
-        <pdtb3_relation sense="asynchronous-precedence"/>
-      </sem>
-      <sem>
-        <pdtb3_relation sense="contrast"/>
-      </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
 
@@ -1664,7 +1664,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Hij diende een voorstel voor een nieuwe belastingsregeling in. Hij had ervoor al aangegeven dat het ophogen van belastingtariever tot de mogelijkheden zou behoren.</example>
+      <example>Hij diende een voorstel voor een nieuwe belastingsregeling in. Hij had ervoor al aangegeven dat het ophogen van belastingtarieven tot de mogelijkheden zou behoren.</example>
     </stts>
     <syn>
       <cat>adv</cat>
@@ -1675,7 +1675,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="asynchronous-precedence"/>
+        <pdtb3_relation sense="asynchronous-succession"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -1828,29 +1828,17 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="conjunction"/> <!-- not sure about this sense -->
+        <pdtb3_relation sense="cause-reason"/>
       </sem>
     </syn>
     <finiteClauseArg>0</finiteClauseArg></entry>
-  <entry id="c59" word="gesteld">
+  <entry id="c59" word="gesteld dat">
     <orths>
-      <orth type="cont" canonical="1" onr="c59o1">
-        <part type="single">gesteld</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="c59o2">
-        <part type="single">Gesteld</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="c59o3">
+      <orth type="cont" canonical="0" onr="c59o1">
         <part type="phrasal">Gesteld dat</part>
       </orth>
-      <orth type="cont" canonical="0" onr="c59o4">
+      <orth type="cont" canonical="1" onr="c59o2">
         <part type="phrasal">gesteld dat</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="c59o5">
-        <part type="phrasal">Vastgesteld dat</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="c59o6">
-        <part type="phrasal">vastgesteld dat</part>
       </orth>
     </orths>
     <non_conn_reading>
@@ -1872,7 +1860,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -2211,7 +2199,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Er bestaat immers bewijs dat ook zij gepest worden.</example>
+      <example>Het verheugt mij ook dat de heer Andersson verwees naar mensen met een tijdelijk arbeidscontract. Er bestaat immers bewijs dat ook zij gepest worden.</example>
     </stts>
     <syn>
       <cat>adv</cat>
@@ -2242,7 +2230,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Voor ons is het van belang dat de EU zich in plaats daarvan concentreert op een aantal gebieden waar ze daadwerkelijk iets kan betekenen.</example>
+      <example>Ik onthoud mij hier van commentaar op de seriositeit van deze argumentatie. In plaats daarvan bedank ik het Zweedse Raadsvoorzitterschap, dat een aanzet heeft gegeven tot beëindiging van deze beschamende toestand.</example>
     </stts>
     <syn>
       <cat>prep</cat>
@@ -2406,6 +2394,9 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem>
         <pdtb3_relation sense="conjunction"/>
       </sem>
+      <sem>
+        <pdtb3_relation sense="list"/>
+      </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
 
@@ -2472,7 +2463,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg1-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -2515,12 +2506,6 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <orth type="cont" canonical="0" onr="c79o2">
         <part type="phrasal">Laat staan</part>
       </orth>
-      <orth type="cont" canonical="0" onr="c79o3">
-        <part type="phrasal">Laat staan dat</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="c79o4">
-        <part type="phrasal">laat staan dat</part>
-      </orth>
     </orths>
     <non_conn_reading>
       <example>Ik hoop dat hij de taart laat staan!</example>
@@ -2530,7 +2515,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Het is voor de Europese Commissie zo goed als onmogelijk om de situatie op nationaal en regionaal vlak te controleren, laat staan in de afzonderlijke bedrijven.</example>
+      <example>Over dit ongeval is op Europees niveau nog niet eens gediscussieerd, laat staan dat er onderzoek naar gedaan is.</example>
     </stts>
     <syn>
       <cat>other</cat>
@@ -2707,7 +2692,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-result"/>
+        <pdtb3_relation sense="cause-reason"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -2832,7 +2817,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="asynchronous-succession"/>
+        <pdtb3_relation sense="asynchronous-precedence"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -2864,7 +2849,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="asynchronous-succession"/>
+        <pdtb3_relation sense="asynchronous-precedence"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -3525,7 +3510,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Per slot van rekening worden al deze kleine landen steeds autonomer en is het dus essentieel dat die autonomie ook wordt erkend.</example>
+      <example>In deze verkiezingsperiode is in Schotland een debat aan de gang over de vraag of het Schotse parlement op fiscaal terrein volledig autonoom dient te zijn. Per slot van rekening worden al deze kleine landen steeds autonomer en is het dus essentieel dat die autonomie ook wordt erkend.</example>
     </stts>
     <syn>
       <cat>adv</cat>
@@ -3598,7 +3583,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="asynchronous-succession"/>
+        <pdtb3_relation sense="asynchronous-precedence"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -3649,7 +3634,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>De voorbereiding hebben sindsdien gestaag hun beslag gekregen.</example>
+      <example>U zult zich herinneren dat de lidstaten zich op de Top van Faro vorig jaar het ambitieuze doel hebben gesteld van een corps van 5000 politiemensen voor internationale missies tegen 2003. De voorbereiding hebben sindsdien gestaag hun beslag gekregen.</example>
     </stts>
     <syn>
       <cat>adv</cat> <!-- perhaps also a syn entry for csu (see seitdem in dimlex)-->
@@ -3937,7 +3922,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-result"/>
+        <pdtb3_relation sense="cause-reason"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -4039,7 +4024,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="negative-condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="negative-condition-arg2-as-negative condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -4111,6 +4096,9 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       </sem>
       <sem>
         <pdtb3_relation sense="concession-arg1-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -4377,7 +4365,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-result"/>
+        <pdtb3_relation sense="cause-reason"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -4430,7 +4418,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Verder wil ik het over de positieve lijst hebben.</example>
+      <example>Ik zou ook nog de andere actoren willen danken, met name de Commissie, die een rol van bemiddelaar, van technische vernieuwer heeft moeten spelen. Zij heeft daarvoor blijk gegeven van een duidelijke lijn en een doeltreffend optreden. Verder zou ik mevrouw de commissaris en ook alle diensten van de Commissie willen bedanken.</example>
     </stts>
     <syn>
       <cat>adv</cat>
@@ -4570,7 +4558,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="asynchronous-succession"/>
+        <pdtb3_relation sense="asynchronous-precedence"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -4600,7 +4588,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -4666,7 +4654,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -4864,7 +4852,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
       <sem>
         <pdtb3_relation sense="synchronous"/>
@@ -4992,7 +4980,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-result"/>
+        <pdtb3_relation sense="purpose-arg2-as-goal"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5055,7 +5043,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
       <!--<sem>
         <pdtb3_relation sense="asynchronous-succession"/>
@@ -5286,7 +5274,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="specification"/>
+        <pdtb3_relation sense="specification-arg2-as-detail"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5348,7 +5336,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="exception"/>
+        <pdtb3_relation sense="exception-arg2-as-exception"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -5472,7 +5460,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-reason"/>
+        <pdtb3_relation sense="cause-result"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5506,6 +5494,9 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem>
         <pdtb3_relation sense="cause-reason"/>
       </sem>
+      <sem>
+        <pdtb3_relation sense="purpose-arg1-as-goal"/>
+      </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
   <entry id="c175" word="doordat">
@@ -5534,7 +5525,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-reason"/>
+        <pdtb3_relation sense="cause-result"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5629,7 +5620,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="conjunction"/>
+        <pdtb3_relation sense="similarity"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -5659,7 +5650,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="conjunction"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5691,7 +5682,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-result"/>
+        <pdtb3_relation sense="cause-reason"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5723,7 +5714,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5753,7 +5744,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -5772,7 +5763,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <stts>
-      <example>Het is op het terrein van de direct beheerde uitgaven dat er nog het meest te verbeteren valt voor de Commissie. Kort gezegd, de Commissie is niet alleen de waakhond van de verdragen; zij moet ook een toonbeeld zijn van gezond financieel beheer.</example>
+      <example>Mijnheer de Voorzitter, de richtlijn voor havendiensten is, zoals die nu voorligt, een lastig stuk om te beoordelen. De doelstelling van de Europese Commissie was liberalisering van havendiensten, en daarvan is nog maar weinig overgebleven. Nadeel van het voorstel was het gevaar dat sociale dumping zou kunnen ontstaan. Het Parlement, en in het bijzonder de rapporteur, hebben zich er actief voor ingezet om de problemen uit het voorstel te halen. Wat overblijft als regelgeving is kennelijk het maximaal haalbare, ook al zou dat wel voor verbetering vatbaar zijn. Ik heb me dan ook afgevraagd of ik voor of tegen dit resultaat zou moeten zijn. Vergelijk ik het resultaat van de richtlijn met de status-quo van regelgeving in de Europese havens, dan kom ik tot de conclusie dat het beter is dit voorstel te aanvaarden dan het te verwerpen. Kort gezegd: de voordelen zijn er wel degelijk en het gevaar voor sociale dumping is nog maar nauwelijks.</example>
     </stts>
     <syn>
       <cat>adv</cat>
@@ -5783,7 +5774,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="specification-arg2-as-detail"/>
+        <pdtb3_relation sense="specification-arg1-as-detail"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5843,7 +5834,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -6202,7 +6193,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="specification-arg2-as-detail"/>
+        <pdtb3_relation sense="specification-arg1-as-detail"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -6661,7 +6652,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_relation sense="negative-condition-arg2-as-consequent"/>
+        <pdtb3_relation sense="negative-condition-arg2-as-negative condition"/>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
@@ -6696,9 +6687,77 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_relation sense="negative-condition-arg1-as-consequent"/>
+        <pdtb3_relation sense="negative-condition-arg2-as-negative condition"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
-  
+  <entry id="c212" word="laat staan dat">
+    <orths>
+      <orth type="cont" canonical="1" onr="c211o1">
+        <part type="phrasal">laat staan dat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c211o2">
+        <part type="phrasal">Laat staan dat</part>
+      </orth>
+    </orths>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Beperking van de mogelijkheden daartoe acht ik uiterst onpraktisch, laat staan dat ik daar een eis van zou willen maken.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>1</ante>
+        <post>1</post>
+        <insert>1</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="negative-condition-arg2-as-negative condition"/>
+      </sem>
+    </syn>
+  <finiteClauseArg>1</finiteClauseArg></entry>
+  <entry id="c213" word="met {X} als gevolg">
+    <orths>
+      <orth type="cont" canonical="1" onr="c211o1">
+        <part type="phrasal">met {X} als gevolg</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c211o2">
+        <part type="phrasal">Met {X} als gevolg</part>
+      </orth>
+	  <orth type="cont" canonical="0" onr="c211o1">
+        <part type="phrasal">Met {X} tot gevolg</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c211o2">
+        <part type="phrasal">met {X} tot gevolg</part>
+      </orth>
+    </orths>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Als het aan goede argumenten ontbreekt, is de eerste stap altijd machtsmisbruik, met moordpartijen tot gevolg.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>1</ante>
+        <post>1</post>
+        <insert>1</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  <finiteClauseArg>0</finiteClauseArg></entry>
 </dimlex>
