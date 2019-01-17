@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 ## References
 
 Peter Bourgonje, Jet Hoek, Jacqueline Evers-Vermeul, Gisela Redeker, Ted Sanders, and Manfred Stede. 
-"Constructing a lexicon of dutch discourse connectives"
+"Constructing a Lexicon of Dutch Discourse Connectives"
 Computational Linguistics in the Netherlands Journal, 8:163-175, 12/2018 2018. \[[pdf](https://clinjournal.org/sites/clinjournal.org/files/Bourgonje2018.pdf)\]
 
 Manfred Stede. 
