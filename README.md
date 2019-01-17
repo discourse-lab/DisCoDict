@@ -1,5 +1,6 @@
 # DisCoDict
 A Dictionary of Dutch Discourse Connectives.
+
 Contributors to this resource are (in alphabetical order): Peter Bourgonje, Jacqueline Evers-Vermeul, Jet Hoek, Gisela Redeker, Ted Sanders and Manfred Stede.
 
 ## License
