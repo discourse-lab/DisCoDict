@@ -1031,7 +1031,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>0</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-reason"/>
+        <pdtb3_relation sense="cause-result"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -5525,7 +5525,7 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
         <insert>1</insert>
       </ordering>
       <sem>
-        <pdtb3_relation sense="cause-result"/>
+        <pdtb3_relation sense="cause-reason"/>
       </sem>
     </syn>
   <finiteClauseArg>1</finiteClauseArg></entry>
@@ -6693,10 +6693,10 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
   <finiteClauseArg>1</finiteClauseArg></entry>
   <entry id="c212" word="laat staan dat">
     <orths>
-      <orth type="cont" canonical="1" onr="c211o1">
+      <orth type="cont" canonical="1" onr="c212o1">
         <part type="phrasal">laat staan dat</part>
       </orth>
-      <orth type="cont" canonical="0" onr="c211o2">
+      <orth type="cont" canonical="0" onr="c212o2">
         <part type="phrasal">Laat staan dat</part>
       </orth>
     </orths>
@@ -6726,16 +6726,16 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
   <finiteClauseArg>1</finiteClauseArg></entry>
   <entry id="c213" word="met {X} als gevolg">
     <orths>
-      <orth type="cont" canonical="1" onr="c211o1">
+      <orth type="cont" canonical="1" onr="c213o1">
         <part type="phrasal">met {X} als gevolg</part>
       </orth>
-      <orth type="cont" canonical="0" onr="c211o2">
+      <orth type="cont" canonical="0" onr="c213o2">
         <part type="phrasal">Met {X} als gevolg</part>
       </orth>
-	  <orth type="cont" canonical="0" onr="c211o1">
+	  <orth type="cont" canonical="0" onr="c213o3">
         <part type="phrasal">Met {X} tot gevolg</part>
       </orth>
-      <orth type="cont" canonical="0" onr="c211o2">
+      <orth type="cont" canonical="0" onr="c213o4">
         <part type="phrasal">met {X} tot gevolg</part>
       </orth>
     </orths>
@@ -6760,4 +6760,39 @@ Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
       </sem>
     </syn>
   <finiteClauseArg>0</finiteClauseArg></entry>
+  <entry id="c214" word="maar">
+    <orths>
+      <orth type="cont" canonical="1" onr="c214o1">
+        <part type="single">maar</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c214o2">
+        <part type="single">Maar</part>
+      </orth>
+    </orths>
+    <non_conn_reading>
+        <example>Dat zijn maar vijf rode fietsen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het is niet aan mij om hier de conclusies van de Raad te onthullen, maar ik roep de leden van dit Parlement op om de conclusies te lezen.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>0</ante>
+        <post>1</post>
+        <insert>1</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  <finiteClauseArg>1</finiteClauseArg></entry>
 </dimlex>
